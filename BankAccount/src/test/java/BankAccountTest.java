@@ -19,24 +19,30 @@ public class BankAccountTest {
 
     @Test
     public void testDeposit() {
-        String expected = "Successfully deposited. Your new balance is: 1000000000.00";
-        String actual = BankAccount.deposit(1000000000.00);
-        assertThat(bankAccount.deposit(1000000000));
+        String expected = "Successfully deposited. Your new balance is: 100.00";
+        String actual = BankAccount.deposit(100.00);
+        assertThat(bankAccount.deposit(100);)
 
-        expected =  "Successfully deposited. Your new balance is: 1999999999.00";
-        actual = bankAccount.deposit(999999999.00);
+        expected = "Successfully deposited. Your new balance is: 99.00";
+        actual = bankAccount.deposit(199.00);
         System.out.println(actual);
-        assertThat(bankAccount.deposit(1999999999.00);)
+        assertThat(bankAccount.deposit(199.00);)
     }
 
     @Test
     public void testWithdrawl(){
-        String expected = "Successfully withdrawn. Your new balance is: "
+        String expected = "Successfully withdrawn. Your new balance is: 99.00";
+        String actual = BankAccount.withdrawal(1.00);
+        assertThat(bankAccount.withdrawal(99.00);)
+
+        String expected = "Successfully withdrawn. Your new balance is: 98.00";
+        String actual = bankAccount.withdrawal(2.00);
+        assertThat(bankAccount.withdrawal(98.00);)
     }
 
     @Test
-    public void testInterest(){
-        String expected = "Interest added: " + //balance * 1.05
+    //public void testInterest(){
+       // String expected = "Interest added: " + //balance * 1.05
     }
 
 }

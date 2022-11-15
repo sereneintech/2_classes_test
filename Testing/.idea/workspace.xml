@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cf4093d-98c6-4f57-af99-ed8571d1cf44" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../classes/intro_to_classes/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../classes/intro_to_classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankAccount/src/test/java/BankAccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankAccount/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BankAccount/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankAccount/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BankAccount/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankAccount/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BankAccount/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankAccount/src/main/java/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BankAccount/src/main/java/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankAccount/src/main/java/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BankAccount/src/main/java/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankAccount/src/test/java/deposit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankAccount/src/test/java/withdrawl.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../classes/intro_to_classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../classes/intro_to_classes/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
