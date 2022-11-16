@@ -28,6 +28,10 @@ public class Gallery {
 
 //Methods
 
+    public void sale(Double saleAmount) { //public/private Outcome Method // deposit(double) -> string
+        this.till += saleAmount;
+    }
+
     public void addMoneyToTill(Artwork artwork) {
         //keep track of current till amount
         //check for price of Artwork bought

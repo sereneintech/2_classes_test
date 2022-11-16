@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="569e32d0-0fe7-48ec-beba-f1c1ff0ae34f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../ArtGallery_multipleclasses/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArtGallery_multipleclasses/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ArtGallery_multipleclasses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArtGallery_multipleclasses/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArtGallery_multipleclasses/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArtGallery_multipleclasses/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArtGallery_multipleclasses/src/main/java/Artist.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArtGallery_multipleclasses/src/main/java/Artist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ArtGallery_multipleclasses/src/main/java/Artwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArtGallery_multipleclasses/src/main/java/Artwork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArtGallery_multipleclasses/src/main/java/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArtGallery_multipleclasses/src/main/java/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ArtGallery_multipleclasses/src/main/java/Gallery.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArtGallery_multipleclasses/src/main/java/Gallery.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ArtGallery_multipleclasses/src/test/java/GalleryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArtGallery_multipleclasses/src/test/java/GalleryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankAccount_testing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BankAccount_testing/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

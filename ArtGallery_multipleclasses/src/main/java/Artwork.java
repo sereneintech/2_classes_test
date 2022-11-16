@@ -6,7 +6,7 @@ public class Artwork {
     private double price;
 
 
-    public Artwork(String title, Artist artist, int nft){
+    public Artwork(String title, Artist artist, int nft, double price){
         this.title = title;
         this.artist = artist;
         this.nft = nft;
