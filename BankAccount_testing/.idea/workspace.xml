@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffd59541-ec3f-432a-b2bf-522434a3b0ce" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../ArtGallery_multipleclasses/src/main/java/Gallery.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArtGallery_multipleclasses/src/main/java/Gallery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArtGallery_multipleclasses/src/test/java/GalleryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArtGallery_multipleclasses/src/test/java/GalleryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multiple_classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multiple_classes/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ffd59541-ec3f-432a-b2bf-522434a3b0ce" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
