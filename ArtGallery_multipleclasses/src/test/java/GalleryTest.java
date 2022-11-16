@@ -7,12 +7,12 @@ public class GalleryTest {
     private Gallery gallery;
 
     @BeforeEach
-    public void setUp(){
+    public void setUp() {
         gallery = new Gallery("BNTA Gallery");
     }
 
     @Test
-    public void canAddArtwork(){
+    public void canAddArtwork() {
         //Arrange
         //Act
         int stockCount = gallery.getStock().size();
@@ -21,7 +21,7 @@ public class GalleryTest {
     }
 
     @Test
-    public void canRemoveArtwork(){
+    public void canRemoveArtwork() {
         //Arrange
         Artist monet = new Artist("Monet");
         Artist picasso = new Artist("Picasso");
@@ -39,7 +39,7 @@ public class GalleryTest {
     }
 
     @Test
-    public void addMoneyToTill(){
+    public void canAddMoneyToTill() {
         //Arrange
         Artist monet = new Artist("Monet");
         Artist picasso = new Artist("Picasso");
@@ -47,14 +47,14 @@ public class GalleryTest {
         Artwork lake = new Artwork("Lake", monet, 1, 100.00);
         Artwork moon = new Artwork("Moon", picasso, 2, 200.00);
         Artwork monalisa = new Artwork("Mona Lisa", davinci, 3, 300.00);
-        Customer customer = new Customer ("Bill", 600);
-        //Act
+        Customer bill = new Customer("Bill", 600);
+        Gallery gallery = new Gallery("BNTA Gallery");
         gallery.addStock(lake);
         gallery.addStock(moon);
         gallery.addStock(monalisa);
-        customer.pay(600.00);
-        double tillMoney = gallery.getTill(); //checking gallery//
+        //Act
+        gallery.addMoneyToTill(lake); //addMoneyToTill(Artwork artwork) -> defined Artwork lake before//
         //Assert
-        assertThat(tillMoney).isEqualTo(600.00);
+        assertThat(gallery.getTill()).isEqualTo(100.00);
     }
 }
