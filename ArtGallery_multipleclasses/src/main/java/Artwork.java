@@ -29,11 +29,8 @@ public class Artwork {
 
     public void setPrice(double price){this.price = price;}
 
-
-
-
-    public void removeNftFromGallery(Artwork artwork){
-        this.nft
-    }
+    //public void removeNftFromGallery(Artwork artwork){
+      //  this.nft;}
 
 }
+

@@ -3,7 +3,6 @@ import java.util.ArrayList;
 public class Gallery {
     private String name;
     private double till;
-
     private ArrayList<Artwork> stock;
 
     public Gallery(String name) {
@@ -23,9 +22,9 @@ public class Gallery {
 
     public void setTill(double till){this.till = till;}
 
-    public ArrayList<Artwork> getArtworks(){return this.stock;}
+    public ArrayList<Artwork> getStock(){return this.stock;}
 
-    public void setArtworks(ArrayList<Artwork> artworks){this.stock = artworks;}
+    public void setStock(ArrayList<Artwork> artworks){this.stock = artworks;}
 
 //Methods
 
@@ -37,12 +36,12 @@ public class Gallery {
         //
     }
 
-    public void removeArtwork(Artwork artwork){
-        this.stock.remove(artwork); //remove or add for ARRAY
+    public void addStock(Artwork artwork){
+        this.stock.add(artwork);
     }
 
-    public void addArtwork(Artwork artwork){
-        
+    public void removeStock(Artwork artwork){
+        this.stock.remove(artwork); //remove or add for ARRAY
     }
 
 
