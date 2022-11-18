@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffd59541-ec3f-432a-b2bf-522434a3b0ce" name="Changes" comment="" />
+    <list default="true" id="ffd59541-ec3f-432a-b2bf-522434a3b0ce" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../multipleclasses_ArtGallery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multipleclasses_ArtGallery/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multipleclasses_ArtGallery/src/main/java/Gallery.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multipleclasses_ArtGallery/src/main/java/Gallery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdd_ServerChecker/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tdd_ServerChecker/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdd_ServerChecker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tdd_ServerChecker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdd_ServerChecker/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tdd_ServerChecker/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdd_ServerChecker/src/main/java/Guest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdd_ServerChecker/src/main/java/Guest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdd_ServerChecker/src/main/java/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdd_ServerChecker/src/main/java/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdd_ServerChecker/src/test/java/GuestTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdd_ServerChecker/src/test/java/ServerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdd_ServerChecker/src/test/java/ServerTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +50,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/thomaschan/SWE/2_java_test/BankAccount_testing"
+    "last_opened_file_path": "/Users/thomaschan/SWE/2_classes_test/testing_BankAccount"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

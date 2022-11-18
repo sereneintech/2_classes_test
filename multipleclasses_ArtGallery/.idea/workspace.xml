@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f272fb7a-9222-4782-a76b-7c0a76b1acb9" name="Changes" comment="" />
+    <list default="true" id="f272fb7a-9222-4782-a76b-7c0a76b1acb9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../tdd_ServerChecker/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tdd_ServerChecker/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdd_ServerChecker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tdd_ServerChecker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdd_ServerChecker/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tdd_ServerChecker/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdd_ServerChecker/src/main/java/Guest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdd_ServerChecker/src/main/java/Guest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdd_ServerChecker/src/main/java/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdd_ServerChecker/src/main/java/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdd_ServerChecker/src/test/java/GuestTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdd_ServerChecker/src/test/java/ServerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdd_ServerChecker/src/test/java/ServerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_BankAccount/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testing_BankAccount/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +50,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/thomaschan/SWE/2_classes_test/multipleclasses_ArtGallery",
     "settings.editor.selected.configurable": "CodeWithMe"
   }
 }]]></component>

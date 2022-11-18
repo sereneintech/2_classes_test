@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0609f2d-b32e-41fe-bbf4-3ce675e98e59" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../multipleclasses_ArtGallery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multipleclasses_ArtGallery/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multipleclasses_ArtGallery/src/main/java/Gallery.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multipleclasses_ArtGallery/src/main/java/Gallery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing_BankAccount/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testing_BankAccount/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b23f28e0-9e0c-4e1b-b46e-26413ab63639" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +29,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -33,7 +37,7 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectId" id="2HiI0SbIr51WDJNRNYQuzebSgAp" />
+  <component name="ProjectId" id="2HiVQvsTcOzB509pxwVYMHpEFVC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,19 +46,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/thomaschan/SWE/2_classes_test/tdd_ServerChecker"
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a0609f2d-b32e-41fe-bbf4-3ce675e98e59" name="Changes" comment="" />
-      <created>1668761255536</created>
+      <changelist id="b23f28e0-9e0c-4e1b-b46e-26413ab63639" name="Changes" comment="" />
+      <created>1668767880747</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1668761255536</updated>
+      <updated>1668767880747</updated>
     </task>
     <servers />
   </component>
