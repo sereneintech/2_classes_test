@@ -48,4 +48,3 @@ public class Server {
     by our server (Hint: Use an ArrayList of Strings for drink names
     on the server, and add a favouriteDrink for the guest)
      */
-

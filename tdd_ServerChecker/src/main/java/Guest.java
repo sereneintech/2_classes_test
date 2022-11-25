@@ -4,7 +4,7 @@ public class Guest {
     private int age;
     private double money;
     private int sobriety;
-    private boolean isBanned;
+    private boolean isBanned; //
     private char currency;
     private String favouriteDrink;
 

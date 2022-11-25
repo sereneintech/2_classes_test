@@ -6,13 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="ffd59541-ec3f-432a-b2bf-522434a3b0ce" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../multipleclasses_ArtGallery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multipleclasses_ArtGallery/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multipleclasses_ArtGallery/src/main/java/Gallery.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multipleclasses_ArtGallery/src/main/java/Gallery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tdd_ServerChecker/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tdd_ServerChecker/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tdd_ServerChecker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tdd_ServerChecker/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tdd_ServerChecker/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tdd_ServerChecker/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tdd_ServerChecker/src/main/java/Guest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdd_ServerChecker/src/main/java/Guest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tdd_ServerChecker/src/main/java/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdd_ServerChecker/src/main/java/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tdd_ServerChecker/src/test/java/GuestTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../tdd_ServerChecker/src/test/java/ServerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdd_ServerChecker/src/test/java/ServerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,19 +37,21 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2HaSwu6qRUHlebHInBGVjMWKsfh" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/thomaschan/SWE/2_classes_test/testing_BankAccount"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/thomaschan/SWE/2_classes_test/testing_BankAccount&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
